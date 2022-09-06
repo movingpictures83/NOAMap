@@ -1,0 +1,2 @@
+Prefix plugins/NOAMap/example/
+Plugin NOAMap inputfile parameters.txt outputfile output.noa
